@@ -1,0 +1,81 @@
+
+#Email-button {
+    width: 150px;
+    height: 30px;
+    background-color: black;
+    box-shadow: 3px 0px 3px  black;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+
+@media screen and (max-width: 600px) {
+    #Email-button {
+        width: 100px;
+        height: 20px;
+        background-color: black;
+        box-shadow: 3px 0px 3px  black;
+        margin-left: 70px;
+        margin-top: 5px;
+    }
+}
+
+#Email-button:hover {
+    background-color: dimgray;
+    opacity: 0.6;
+}
+
+#Email-text {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 600px) {
+    #Email-text {
+        text-decoration: none;
+        color: white;
+        font-size: 12px;
+        font-weight: bold;
+    }
+}
+
+#Blog-button {
+    width: 200px;
+    height: 40px;
+    background-color: black;
+    box-shadow: 3px 0px 3px  black;
+    margin-left: 270px;
+    margin-top: 30px;
+}
+
+@media screen and (max-width: 600px) {
+    #Blog-button {
+        width: 150px;
+        height: 30px;
+        background-color: black;
+        box-shadow: 3px 0px 3px  black;
+        margin-left: 1px;
+        margin-top: 30px;
+        color: white;
+    }
+}
+
+#Dead-side {
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 600px) {
+    #Dead-side {
+        color: white;
+        font-size: 12px;
+        font-weight: bold;
+    }
+}
+
+#Blog-button:hover {
+    background-color: dimgray;
+    opacity: 0.6;
+}
