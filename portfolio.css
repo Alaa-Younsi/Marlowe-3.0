@@ -786,3 +786,6 @@ ul {
     }
 }
 
+::-webkit-scrollbar {
+    color: transparent;
+}
