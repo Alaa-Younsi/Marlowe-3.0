@@ -6,6 +6,14 @@
 
 **Live Demo:** [https://alaa-younsi.github.io/Marlowe/](https://alaa-younsi.github.io/Marlowe/)
 
+![Homepage](screenshot1.png)
+![Services Section](screenshot2.png)
+![Blog Section](screenshot3.png)
+![Homepage](screenshot4.png)
+![Services Section](screenshot5.png)
+![Blog Section](screenshot6.png)
+![Homepage](screenshot7.png)
+
 ---
 
 ## 🎯 Project Purpose
